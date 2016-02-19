@@ -42,3 +42,11 @@ Integrate our project to MARK/(other group’s project) to get Data.
 Export to a file (CSV, TXT, etc.)
 
 Our program can be referenced as a tool to improve the scheduling work flow.
+
+Program Feature:
+  Create poll
+  answer poll
+  view result
+            (filter, sort, search result)
+  number menu navigation
+  
